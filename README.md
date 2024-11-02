@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="100%" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
+<img align="center" width="100%" src="https://drive.usercontent.google.com/download?id=16mAJHnVNzUYoiSZRbFt_cCtVk2OmjldD&export=view&authuser=0">
 <h1 align="center">Hi 👋, I'm Nayab Khan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="300" " src="https://cdn.dribbble.com/users/118246/screenshots/5343519/media/c5282ff937dd414c378a61de51b32845.gif"
